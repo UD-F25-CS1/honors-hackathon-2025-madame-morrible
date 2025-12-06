@@ -6,11 +6,12 @@ from meta import *
 
 # hide_debug_information()
 # set_website_framed(False)
-set_website_title("Your Drafter Website")
+set_website_title("What's in My Fridge")
 set_site_information(
-    "author",
+    "Anavi Chintam and Alekhya Veeramachineni",
     """
-Your description can go here.
+Our site helps user catalog items in their fridge and shows the expiration date. This helps
+users keep track of everything in their fridge and encourages users to use food before they expire. 
 """,
     [],
     [],
